@@ -8,3 +8,7 @@ if (FirstNumber == SecondNumber) {
 if (FirstNumber != SecondNumber) {
     alert("NO, your numbers are not equal");
 }
+
+if (3) {
+    alert("3 is true");
+}
